@@ -1,5 +1,3 @@
-"João Pedro Martins Cardamone NUSP: 10336254"
-"Jonatas Michel de Cardoso Vieira NUSP: 9913690"
 
 import math
 import matplotlib
