@@ -1,0 +1,13 @@
+"João Pedro Martins Cardamone NUSP: 10336254"
+"Jonatas Michel de Cardoso Vieira NUSP: 9913690"
+
+Instruções para EP_numerico_2:
+
+- A versão do Python deve ser a 3.8.2;
+- Para rodar o programa, as seguintes bibliotecas devem estar instaladas:
+	math
+	matplotlib
+	matplotlib.pyplot as plt
+	numpy as np
+- Você deverá realizar as entradas do programa seguindo as intruções disponibilizadas pelo mesmo.
+- Os testes possíveis des teste neste EP são a "a" e "b".
